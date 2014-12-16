@@ -1,0 +1,1 @@
+this is a ticket-queuing system written as an experiment in meteor.
